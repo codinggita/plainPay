@@ -107,4 +107,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Built with intention · Expense Tracker © 2025</p>
+<p align="center">Built with intention · Expense Tracker © 2026</p>
