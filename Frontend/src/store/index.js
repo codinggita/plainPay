@@ -18,3 +18,7 @@ export const selectAuth = (state) => state.auth;
 export const selectUI = (state) => state.ui;
 export const selectUser = (state) => state.auth.user;
 export const selectIsAuthenticated = (state) => state.auth.isAuthenticated;
+
+// Action exports
+export { logout, loginStart, loginSuccess, loginFailure, updateUser } from './slices/authSlice';
+export { toggleDarkMode, toggleSidebar, setSidebar, setCurrentTab } from './slices/uiSlice';
